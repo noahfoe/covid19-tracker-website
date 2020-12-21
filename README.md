@@ -5,7 +5,7 @@ The user is able to look at global data when loading the website along with the 
 
 ## What I Learned
 * React Components
-* fetching Data from API
+* Fetching Data from API
 * Various graph formats
 * State Management
 * Dropdown Menu
